@@ -1,0 +1,14 @@
+{
+  "single": false,
+  "car": {
+    "price": 200000,
+    "brand": "audio"
+  },
+  "skill": [
+    "english",
+    "program",
+    "sale"
+  ],
+  "name": "уехЩ",
+  "age": 25
+}
